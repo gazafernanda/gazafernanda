@@ -93,7 +93,6 @@ def info_lines(s):
         title(USER, HOST),
         kv("OS", "macOS, Linux (Docker)"),
         kv("Uptime", uptime(s["created_at"])),
-        kv("Host", "MacBook Air (M1)"),
         kv("Kernel", "Full-Stack Developer"),
         kv("Focus", "Frontend Architecture, Interface Design"),
         kv("Shell", "zsh"),
