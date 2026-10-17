@@ -36,9 +36,9 @@ text { white-space: pre; }
 <g class="fade">
 <text class="label muted" x="56.0" y="52.0">GAZA FERNANDA</text>
 <text class="label muted" text-anchor="middle" x="540.0" y="52.0">EST. 2021</text>
-<text class="label muted" text-anchor="end" x="1024.0" y="52.0">UPDATED 16.10.2026</text>
-<circle cx="838.2" cy="48" r="3.5" fill="#ff4f00"/>
-<circle class="ring" cx="838.2" cy="48" r="3.5" fill="none" stroke="#ff4f00"/>
+<text class="label muted" text-anchor="end" x="1024.0" y="52.0">UPDATED 17.10.2026</text>
+<circle cx="838.9" cy="48" r="3.5" fill="#ff4f00"/>
+<circle class="ring" cx="838.9" cy="48" r="3.5" fill="none" stroke="#ff4f00"/>
 </g>
 <line class="draw" style="animation-delay:0.10s" x1="56" y1="78.5" x2="1024" y2="78.5" stroke="#e4e4e7"/>
 <clipPath id="h0"><rect x="46" y="107" width="660" height="109"/></clipPath>
@@ -92,7 +92,7 @@ text { white-space: pre; }
 <text class="body ink" x="806.0" y="400.0">Backtest-Engine</text>
 <text class="mono muted" text-anchor="end" x="1024.0" y="400.0">3w</text>
 <text class="body ink" x="806.0" y="426.0">Verd</text>
-<text class="mono muted" text-anchor="end" x="1024.0" y="426.0">8w</text>
+<text class="mono muted" text-anchor="end" x="1024.0" y="426.0">2mo</text>
 <text class="body ink" x="806.0" y="452.0">bank-statement-conve…</text>
 <text class="mono muted" text-anchor="end" x="1024.0" y="452.0">3mo</text>
 <text class="body ink" x="806.0" y="478.0">Orchestrator</text>
@@ -173,7 +173,7 @@ text { white-space: pre; }
 <g class="ripple" style="animation-delay:5.47s"><circle class="pop" style="animation-delay:2.088s" cx="960.1" cy="584.0" r="1.6" fill="#ececef"/><circle class="pop" style="animation-delay:2.123s" cx="960.1" cy="602.3" r="1.6" fill="#ececef"/><circle class="pop" style="animation-delay:2.158s" cx="960.1" cy="620.5" r="1.6" fill="#ececef"/><circle class="pop" style="animation-delay:2.193s" cx="960.1" cy="638.8" r="3.4" fill="#71717a"/><circle class="pop" style="animation-delay:2.228s" cx="960.1" cy="657.1" r="2.6" fill="#c4c4cc"/><circle class="pop" style="animation-delay:2.263s" cx="960.1" cy="675.3" r="1.6" fill="#ececef"/><circle class="pop" style="animation-delay:2.298s" cx="960.1" cy="693.6" r="1.6" fill="#ececef"/></g>
 <g class="ripple" style="animation-delay:5.50s"><circle class="pop" style="animation-delay:2.100s" cx="978.3" cy="584.0" r="1.6" fill="#ececef"/><circle class="pop" style="animation-delay:2.135s" cx="978.3" cy="602.3" r="1.6" fill="#ececef"/><circle class="pop" style="animation-delay:2.170s" cx="978.3" cy="620.5" r="1.6" fill="#ececef"/><circle class="pop" style="animation-delay:2.205s" cx="978.3" cy="638.8" r="1.6" fill="#ececef"/><circle class="pop" style="animation-delay:2.240s" cx="978.3" cy="657.1" r="1.6" fill="#ececef"/><circle class="pop" style="animation-delay:2.275s" cx="978.3" cy="675.3" r="1.6" fill="#ececef"/><circle class="pop" style="animation-delay:2.310s" cx="978.3" cy="693.6" r="1.6" fill="#ececef"/></g>
 <g class="ripple" style="animation-delay:5.53s"><circle class="pop" style="animation-delay:2.112s" cx="996.6" cy="584.0" r="1.6" fill="#ececef"/><circle class="pop" style="animation-delay:2.147s" cx="996.6" cy="602.3" r="1.6" fill="#ececef"/><circle class="pop" style="animation-delay:2.182s" cx="996.6" cy="620.5" r="1.6" fill="#ececef"/><circle class="pop" style="animation-delay:2.217s" cx="996.6" cy="638.8" r="1.6" fill="#ececef"/><circle class="pop" style="animation-delay:2.252s" cx="996.6" cy="657.1" r="1.6" fill="#ececef"/><circle class="pop" style="animation-delay:2.287s" cx="996.6" cy="675.3" r="1.6" fill="#ececef"/><circle class="pop" style="animation-delay:2.322s" cx="996.6" cy="693.6" r="1.6" fill="#ececef"/></g>
-<g class="ripple" style="animation-delay:5.56s"><circle class="pop" style="animation-delay:2.124s" cx="1014.9" cy="584.0" r="1.6" fill="#ececef"/><circle class="pop" style="animation-delay:2.159s" cx="1014.9" cy="602.3" r="1.6" fill="#ececef"/><circle class="pop" style="animation-delay:2.194s" cx="1014.9" cy="620.5" r="2.6" fill="#c4c4cc"/><circle class="pop" style="animation-delay:2.229s" cx="1014.9" cy="638.8" r="1.6" fill="#ececef"/><circle class="pop" style="animation-delay:2.264s" cx="1014.9" cy="657.1" r="1.6" fill="#ececef"/><circle class="pop" style="animation-delay:2.299s" cx="1014.9" cy="675.3" r="1.6" fill="#ececef"/><g class="fade" style="animation-delay:2.70s"><circle class="ring" cx="1014.9" cy="675.3" r="5.5" fill="none" stroke="#ff4f00"/></g></g>
+<g class="ripple" style="animation-delay:5.56s"><circle class="pop" style="animation-delay:2.124s" cx="1014.9" cy="584.0" r="1.6" fill="#ececef"/><circle class="pop" style="animation-delay:2.159s" cx="1014.9" cy="602.3" r="1.6" fill="#ececef"/><circle class="pop" style="animation-delay:2.194s" cx="1014.9" cy="620.5" r="2.6" fill="#c4c4cc"/><circle class="pop" style="animation-delay:2.229s" cx="1014.9" cy="638.8" r="1.6" fill="#ececef"/><circle class="pop" style="animation-delay:2.264s" cx="1014.9" cy="657.1" r="1.6" fill="#ececef"/><circle class="pop" style="animation-delay:2.299s" cx="1014.9" cy="675.3" r="1.6" fill="#ececef"/><circle class="pop" style="animation-delay:2.334s" cx="1014.9" cy="693.6" r="1.6" fill="#ececef"/><g class="fade" style="animation-delay:2.70s"><circle class="ring" cx="1014.9" cy="693.6" r="5.5" fill="none" stroke="#ff4f00"/></g></g>
 <line class="draw" style="animation-delay:1.90s" x1="56" y1="748.0849056603773" x2="1024" y2="748.0849056603773" stroke="#e4e4e7"/>
 <clipPath id="n0"><rect x="52.0" y="786.1" width="218.0" height="55.4"/></clipPath>
 <g clip-path="url(#n0)">
